@@ -1,0 +1,24 @@
+##############################################
+####  				                 
+####					                           
+####	      Matthew's hashing program	     
+####					                            
+####					                            
+####					                            
+##############################################
+
+
+Description: 
+
+This is basically a very simple Python hashing program that was developed in under thirty minutes.
+
+It allows you to enter in a password and it will return the password with a variety of outputs from different hashing algorithms such as SHA256, MD5, SHA512 etc. 
+
+LICENSING: 
+
+This project is entirely open-source as I don't have anything that hasn't been used before in there. Feel free to use it, just don't make money off of the product. 
+
+
+I believe that's everything, 
+
+Thanks Matt. 
